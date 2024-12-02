@@ -1,4 +1,8 @@
 name: MineGuessr
-version: '${version}'
-main: prj.salmon.mineguessr.MineGuessr
-api-version: '1.20'
+version: 1.0
+main: prj.salmon.mineguessr.Main
+api-version: 1.16
+commands:
+  mineguessr:
+    description: Start the MineGuessr game
+    usage: /mineguessr
