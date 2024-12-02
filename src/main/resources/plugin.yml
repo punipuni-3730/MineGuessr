@@ -1,0 +1,4 @@
+name: MineGuessr
+version: '${version}'
+main: prj.salmon.mineguessr.MineGuessr
+api-version: '1.20'

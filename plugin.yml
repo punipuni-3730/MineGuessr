@@ -1,0 +1,8 @@
+name: MineGuessr
+version: 1.0
+main: prj.salmon.mineguessr.Main
+api-version: 1.18
+commands:
+  mineguessr:
+    description: Start the MineGuessr game
+    usage: /mineguessr
